@@ -1,0 +1,9 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/sabafly/gobot-lib
+[submodule "api"]
+	path = api
+	url = https://github.com/sabafly/gobot-api
+[submodule "gobot"]
+	path = gobot
+	url = https://github.com/sabafly/gobot
